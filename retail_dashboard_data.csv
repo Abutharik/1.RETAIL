@@ -1,0 +1,6 @@
+Order_ID,Order_Date,Region,Category,Sub_Category,Product_Name,Sales,Profit,Quantity,Inventory_Days
+CA-2025-10001,2025-01-10,East,Furniture,Chairs,Office Chair,250,40,2,45
+CA-2025-10002,2025-02-15,West,Technology,Phones,iPhone,1200,300,1,25
+CA-2025-10003,2025-03-20,Central,Office Supplies,Binders,Binder Pack,150,20,3,50
+CA-2025-10004,2025-03-22,South,Furniture,Tables,Conference Table,650,-50,1,70
+CA-2025-10005,2025-04-05,East,Technology,Accessories,USB Hub,400,80,2,30
